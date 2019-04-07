@@ -1,5 +1,5 @@
 # clickstream-analysis
-This project has 2 modules 2 Log File Generation and 2) Clickstream analysis
+This project has two modules 1) Log File Generation and 2) Clickstream analysis
 Log file Generator:
 This project is in Scala which will generate a log file for the day for various user-sessions for an e-commerce website. 
 Generator will generate data for N days (provided as argument to the generator-tool)
